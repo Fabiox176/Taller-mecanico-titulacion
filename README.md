@@ -55,14 +55,6 @@ Proyecto académico desarrollado para la gestión de un taller mecánico, con fu
 
 > Históricamente el proyecto se trabajó con metodologías ágiles (Scrum) y control de versiones en GitHub (repositorio privado durante el desarrollo).
 
-## 🗺 Roadmap (sugerido)
-
-- [ ] Publicar código fuente (limpiado) en `/src`.
-- [ ] Añadir pruebas unitarias y de integración.
-- [ ] Empaquetado reproducible (scripts de build).
-- [ ] Exportación/Importación de datos.
-- [ ] Interfaz mejorada y tema oscuro.
-
 ## 👥 Autores
 
 - **Fabio Renee Romero** — Analista/Desarrollador
