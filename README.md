@@ -20,7 +20,7 @@ Proyecto académico desarrollado para la gestión de un taller mecánico, con fu
 
 ```
 .
-├─ docs/                    # Documentación en PDF/DOCX
+├─ docs/                    # Documentación en PDF
 ├─ release/
 │  ├─ Taller_V1.0.exe      # Ejecutable (demo)
 │  └─ sample_db/
@@ -47,7 +47,6 @@ Proyecto académico desarrollado para la gestión de un taller mecánico, con fu
 
 - **Manual de Usuario** — `/docs/Manual de Usuario.pdf`
 - **Manual de Procesos** — `/docs/Manual de Procesos.pdf`
-- **Trabajo de Titulación** — `/docs/Trabajo de Titulacion.pdf`
 
 ## 🔧 Stack técnico (build)
 
