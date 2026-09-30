@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔧 Sistema de gestión para taller mecánico desarrollado en Python y SQLite | Proyecto académico de titulación
+# 🔧 Sistema de Gestión para Taller Mecánico
 
 ### Proyecto académico · Trabajo de Titulación
 
@@ -9,7 +9,7 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows11&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 
-Sistema de escritorio orientado a centralizar operaciones habituales de un taller mecánico: **clientes, servicios, productos, stock, ventas y reportes**.
+Sistema de escritorio desarrollado para centralizar operaciones habituales de un taller mecánico: **clientes, servicios, productos, stock, ventas y reportes**.
 
 </div>
 
@@ -19,15 +19,21 @@ Sistema de escritorio orientado a centralizar operaciones habituales de un talle
 
 Este repositorio presenta la versión pública de un **proyecto académico de gestión para talleres mecánicos**, desarrollado como trabajo de titulación.
 
-El objetivo del sistema es concentrar información operativa en una única aplicación de escritorio y facilitar tareas administrativas frecuentes mediante operaciones de alta, modificación, consulta y registro.
+El sistema busca centralizar información operativa en una única aplicación de escritorio y facilitar tareas administrativas frecuentes mediante operaciones de alta, modificación, consulta y registro.
 
-La versión pública está orientada a **demostración y documentación**. Incluye un ejecutable para Windows, una base de datos SQLite de ejemplo y documentación funcional en PDF.
+La versión pública está orientada a **demostración y documentación** e incluye:
 
-> **Importante:** el código fuente no forma parte de esta versión pública del repositorio.
+- Ejecutable para Windows.
+- Base de datos SQLite de ejemplo.
+- Manual de usuario.
+- Manual de procesos.
+- Información técnica y funcional del proyecto.
+
+> **Importante:** el código fuente del desarrollo original no forma parte de esta versión pública del repositorio.
 
 ---
 
-## ✨ Funcionalidades
+## ✨ Funcionalidades principales
 
 - Gestión de **clientes**.
 - Gestión de **servicios**.
@@ -48,7 +54,7 @@ La versión pública está orientada a **demostración y documentación**. Inclu
 | **PyInstaller** | Empaquetado de la aplicación como ejecutable para Windows |
 | **Git / GitHub** | Control de versiones y publicación del proyecto |
 
-El desarrollo original también se trabajó utilizando prácticas de organización basadas en **Scrum**.
+Durante el desarrollo también se utilizaron prácticas de organización basadas en **Scrum**.
 
 ---
 
@@ -82,13 +88,13 @@ El desarrollo original también se trabajó utilizando prácticas de organizaci�
 2. Ejecutá [`Taller_V1.0.exe`](./release/Taller_V1.0.exe).
 3. La base de datos de ejemplo se encuentra en [`release/sample_db/taller.db`](./release/sample_db/taller.db).
 
-> El ejecutable fue generado con **PyInstaller** y no posee firma digital. Algunos antivirus pueden advertir sobre ejecutables empaquetados de este tipo. La aplicación debe ejecutarse únicamente si fue descargada desde este repositorio.
+> El ejecutable fue generado con **PyInstaller** y no posee firma digital. Algunos antivirus pueden mostrar advertencias sobre ejecutables empaquetados de este tipo. Se recomienda utilizar únicamente el archivo publicado en este repositorio.
 
 ---
 
 ## 📚 Documentación
 
-La documentación disponible permite revisar el funcionamiento general del sistema y sus procesos principales:
+La documentación disponible permite revisar el funcionamiento general del sistema y sus principales procesos:
 
 - 📘 [Manual de Usuario](./docs/Manual%20de%20Usuario.pdf)
 - 📙 [Manual de Procesos](./docs/Manual%20de%20Procesos.pdf)
@@ -97,16 +103,19 @@ La documentación disponible permite revisar el funcionamiento general del siste
 
 ## 🎯 Alcance de esta versión pública
 
-Este repositorio funciona como **presentación técnica y demostración ejecutable** del proyecto académico.
+Este repositorio funciona como **presentación técnica, documentación funcional y demostración ejecutable** del proyecto académico.
 
-Incluye:
+### Incluye
 
 - Documentación funcional.
 - Ejecutable de demostración.
-- Base de datos local de ejemplo.
-- Información sobre tecnologías y alcance funcional.
+- Base de datos SQLite de ejemplo.
+- Información sobre tecnologías utilizadas.
+- Descripción del alcance funcional del sistema.
 
-No incluye el código fuente del desarrollo original.
+### No incluye
+
+- Código fuente del desarrollo original.
 
 ---
 
