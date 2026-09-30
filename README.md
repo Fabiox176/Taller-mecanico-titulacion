@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔧 Sistema de Gestión para Taller Mecánico
+# 🔧 Sistema de gestión para taller mecánico desarrollado en Python y SQLite | Proyecto académico de titulación
 
 ### Proyecto académico · Trabajo de Titulación
 
